@@ -8,6 +8,11 @@ namespace grafikNo
     {
 
         int x, y;
+        Graphics g;
+        Pen p = new Pen(Color.FromArgb(255, 0, 0));
+        Font f = new Font("Arial", 10);
+        SolidBrush b = new SolidBrush(Color.Black);
+        int s = 0;
         public Form1()
         {
             InitializeComponent();
@@ -46,10 +51,18 @@ namespace grafikNo
         {
             x = e.X;
             y = e.Y;
-            Graphics g = panel1.CreateGraphics();
-            Pen p = new Pen(Color.FromArgb(255, 0, 0));
-            p.Width = 3;
-            g.DrawEllipse(p, new RectangleF(x, y, 10, 10));
+
+            g = panel1.CreateGraphics();
+            p.Width = 2;
+
+            if (s < 10) {
+                g.DrawEllipse(p, new RectangleF(x, y, 15, 15));
+                g.DrawString(Convert.ToString(s), f, b, x+2 , y );
+                s++;
+            }
+
+            
+            
 
 
         }
