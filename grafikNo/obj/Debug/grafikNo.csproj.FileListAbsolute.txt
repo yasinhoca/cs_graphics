@@ -1,0 +1,11 @@
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.csproj.AssemblyReference.cache
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.Form1.resources
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.Properties.Resources.resources
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.csproj.GenerateResource.cache
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.csproj.CoreCompileInputs.cache
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\bin\Debug\grafikNo.exe.config
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\bin\Debug\grafikNo.exe
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\bin\Debug\grafikNo.pdb
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.exe
+C:\Users\yasong\Documents\vsprojects\grafikNo\grafikNo\obj\Debug\grafikNo.pdb
